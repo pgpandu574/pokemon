@@ -1,0 +1,332 @@
+[
+  {
+    "_firestore": {
+      "app": {
+        "_isDeleted": false,
+        "_options": {
+          "apiKey": "AIzaSyAWwN9u0ZXREgoGiiHTE1Juk20RHjan8Dw",
+          "authDomain": "pokemon-demo-6a02a.firebaseapp.com",
+          "projectId": "pokemon-demo-6a02a",
+          "storageBucket": "pokemon-demo-6a02a.appspot.com",
+          "messagingSenderId": "681788103172",
+          "appId": "1:681788103172:web:082f048a51c0ca6eb6f351",
+          "measurementId": "G-YWDKTMDXCQ"
+        },
+        "_config": {
+          "name": "[DEFAULT]",
+          "automaticDataCollectionEnabled": false
+        },
+        "_name": "[DEFAULT]",
+        "_automaticDataCollectionEnabled": false,
+        "_container": {
+          "name": "[DEFAULT]",
+          "providers": {}
+        }
+      },
+      "databaseId": {
+        "projectId": "pokemon-demo-6a02a",
+        "database": "(default)"
+      },
+      "settings": {
+        "host": "firestore.googleapis.com",
+        "ssl": true,
+        "ignoreUndefinedProperties": false,
+        "cacheSizeBytes": 41943040,
+        "experimentalForceLongPolling": false,
+        "experimentalAutoDetectLongPolling": true,
+        "experimentalLongPollingOptions": {},
+        "useFetchStreams": false
+      }
+    },
+    "_userDataWriter": {
+      "firestore": {
+        "app": {
+          "_isDeleted": false,
+          "_options": {
+            "apiKey": "AIzaSyAWwN9u0ZXREgoGiiHTE1Juk20RHjan8Dw",
+            "authDomain": "pokemon-demo-6a02a.firebaseapp.com",
+            "projectId": "pokemon-demo-6a02a",
+            "storageBucket": "pokemon-demo-6a02a.appspot.com",
+            "messagingSenderId": "681788103172",
+            "appId": "1:681788103172:web:082f048a51c0ca6eb6f351",
+            "measurementId": "G-YWDKTMDXCQ"
+          },
+          "_config": {
+            "name": "[DEFAULT]",
+            "automaticDataCollectionEnabled": false
+          },
+          "_name": "[DEFAULT]",
+          "_automaticDataCollectionEnabled": false,
+          "_container": {
+            "name": "[DEFAULT]",
+            "providers": {}
+          }
+        },
+        "databaseId": {
+          "projectId": "pokemon-demo-6a02a",
+          "database": "(default)"
+        },
+        "settings": {
+          "host": "firestore.googleapis.com",
+          "ssl": true,
+          "ignoreUndefinedProperties": false,
+          "cacheSizeBytes": 41943040,
+          "experimentalForceLongPolling": false,
+          "experimentalAutoDetectLongPolling": true,
+          "experimentalLongPollingOptions": {},
+          "useFetchStreams": false
+        }
+      }
+    },
+    "_key": {
+      "path": {
+        "segments": [
+          "projects",
+          "pokemon-demo-6a02a",
+          "databases",
+          "(default)",
+          "documents",
+          "users",
+          "kKMSTudJJ2xnwz8ugzjM"
+        ],
+        "offset": 5,
+        "len": 2
+      }
+    },
+    "_document": {
+      "key": {
+        "path": {
+          "segments": [
+            "projects",
+            "pokemon-demo-6a02a",
+            "databases",
+            "(default)",
+            "documents",
+            "users",
+            "kKMSTudJJ2xnwz8ugzjM"
+          ],
+          "offset": 5,
+          "len": 2
+        }
+      },
+      "documentType": 1,
+      "version": {
+        "timestamp": {
+          "seconds": 1723043739,
+          "nanoseconds": 84116000
+        }
+      },
+      "readTime": {
+        "timestamp": {
+          "seconds": 0,
+          "nanoseconds": 0
+        }
+      },
+      "createTime": {
+        "timestamp": {
+          "seconds": 1723043739,
+          "nanoseconds": 84116000
+        }
+      },
+      "data": {
+        "value": {
+          "mapValue": {
+            "fields": {
+              "pokemonName": {
+                "stringValue": "charizard"
+              },
+              "pokemonAbility": {
+                "stringValue": "blaze"
+              },
+              "initialPositionY": {
+                "stringValue": "212"
+              },
+              "pokemonOwnerName": {
+                "stringValue": "kkuiu"
+              },
+              "id": {
+                "integerValue": "2"
+              },
+              "initialPositionX": {
+                "stringValue": "23"
+              },
+              "speed": {
+                "stringValue": "565"
+              },
+              "direction": {
+                "stringValue": "X"
+              }
+            }
+          }
+        }
+      },
+      "documentState": 0
+    },
+    "_converter": null
+  },
+  {
+    "_firestore": {
+      "app": {
+        "_isDeleted": false,
+        "_options": {
+          "apiKey": "AIzaSyAWwN9u0ZXREgoGiiHTE1Juk20RHjan8Dw",
+          "authDomain": "pokemon-demo-6a02a.firebaseapp.com",
+          "projectId": "pokemon-demo-6a02a",
+          "storageBucket": "pokemon-demo-6a02a.appspot.com",
+          "messagingSenderId": "681788103172",
+          "appId": "1:681788103172:web:082f048a51c0ca6eb6f351",
+          "measurementId": "G-YWDKTMDXCQ"
+        },
+        "_config": {
+          "name": "[DEFAULT]",
+          "automaticDataCollectionEnabled": false
+        },
+        "_name": "[DEFAULT]",
+        "_automaticDataCollectionEnabled": false,
+        "_container": {
+          "name": "[DEFAULT]",
+          "providers": {}
+        }
+      },
+      "databaseId": {
+        "projectId": "pokemon-demo-6a02a",
+        "database": "(default)"
+      },
+      "settings": {
+        "host": "firestore.googleapis.com",
+        "ssl": true,
+        "ignoreUndefinedProperties": false,
+        "cacheSizeBytes": 41943040,
+        "experimentalForceLongPolling": false,
+        "experimentalAutoDetectLongPolling": true,
+        "experimentalLongPollingOptions": {},
+        "useFetchStreams": false
+      }
+    },
+    "_userDataWriter": {
+      "firestore": {
+        "app": {
+          "_isDeleted": false,
+          "_options": {
+            "apiKey": "AIzaSyAWwN9u0ZXREgoGiiHTE1Juk20RHjan8Dw",
+            "authDomain": "pokemon-demo-6a02a.firebaseapp.com",
+            "projectId": "pokemon-demo-6a02a",
+            "storageBucket": "pokemon-demo-6a02a.appspot.com",
+            "messagingSenderId": "681788103172",
+            "appId": "1:681788103172:web:082f048a51c0ca6eb6f351",
+            "measurementId": "G-YWDKTMDXCQ"
+          },
+          "_config": {
+            "name": "[DEFAULT]",
+            "automaticDataCollectionEnabled": false
+          },
+          "_name": "[DEFAULT]",
+          "_automaticDataCollectionEnabled": false,
+          "_container": {
+            "name": "[DEFAULT]",
+            "providers": {}
+          }
+        },
+        "databaseId": {
+          "projectId": "pokemon-demo-6a02a",
+          "database": "(default)"
+        },
+        "settings": {
+          "host": "firestore.googleapis.com",
+          "ssl": true,
+          "ignoreUndefinedProperties": false,
+          "cacheSizeBytes": 41943040,
+          "experimentalForceLongPolling": false,
+          "experimentalAutoDetectLongPolling": true,
+          "experimentalLongPollingOptions": {},
+          "useFetchStreams": false
+        }
+      }
+    },
+    "_key": {
+      "path": {
+        "segments": [
+          "projects",
+          "pokemon-demo-6a02a",
+          "databases",
+          "(default)",
+          "documents",
+          "users",
+          "nm4dU976n3VTvgd0E9zB"
+        ],
+        "offset": 5,
+        "len": 2
+      }
+    },
+    "_document": {
+      "key": {
+        "path": {
+          "segments": [
+            "projects",
+            "pokemon-demo-6a02a",
+            "databases",
+            "(default)",
+            "documents",
+            "users",
+            "nm4dU976n3VTvgd0E9zB"
+          ],
+          "offset": 5,
+          "len": 2
+        }
+      },
+      "documentType": 1,
+      "version": {
+        "timestamp": {
+          "seconds": 1723043680,
+          "nanoseconds": 356853000
+        }
+      },
+      "readTime": {
+        "timestamp": {
+          "seconds": 0,
+          "nanoseconds": 0
+        }
+      },
+      "createTime": {
+        "timestamp": {
+          "seconds": 1723043680,
+          "nanoseconds": 356853000
+        }
+      },
+      "data": {
+        "value": {
+          "mapValue": {
+            "fields": {
+              "pokemonName": {
+                "stringValue": "ivysaur"
+              },
+              "pokemonAbility": {
+                "stringValue": "overgrow"
+              },
+              "initialPositionY": {
+                "stringValue": "11223"
+              },
+              "pokemonOwnerName": {
+                "stringValue": "me"
+              },
+              "id": {
+                "integerValue": "2"
+              },
+              "initialPositionX": {
+                "stringValue": "0152"
+              },
+              "speed": {
+                "stringValue": "4111"
+              },
+              "direction": {
+                "stringValue": "y"
+              }
+            }
+          }
+        }
+      },
+      "documentState": 0
+    },
+    "_converter": null
+  }
+]
